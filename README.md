@@ -11,11 +11,11 @@ Detta projekt använder Convolutional Neural Networks (CNN) för att klassificer
 - **`main.ipynb`:** Huvudfilen som kör hela projektet. Den sammanställer och exekverar de olika delarna av klassificeringen.
 - **`gender.ipynb`:** Notebook för att träna och testa modellen för könsklassificering. Den använder `gender_classification_model.keras`.
 - **`age.ipynb`:** Notebook för att träna och testa modellen för åldersklassificering. Den använder `age3_classification_model.keras`.
-- **`emo.ipynb`:** Notebook för att träna och testa modellen för känsloklassificering. Den använder 61p\_model.h5.keras.
+- **`emo.ipynb`:** Notebook för att träna och testa modellen för känsloklassificering. Den använder `61p_model.h5.keras`.
 - **Modellfiler:**
   - `gender_classification_model.keras`: Förtränad modell för könsklassificering.
   - `age3_classification_model.keras`: Förtränad modell för åldersklassificering.
-  - `61p_model.h5.kas`: Förtränad modell för känsloklassificering.
+  - `61p_model.h5.keras`: Förtränad modell för känsloklassificering.
 
 ---
 
